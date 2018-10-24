@@ -1,0 +1,96 @@
+@import "reset.css";
+
+body {
+  background-image: url(../images/dc-online-media-mockup.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 800px 20624px;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+
+  width: 1020px;
+  margin: 80px auto;
+}
+body {
+  margin: 0 auto;
+  margin-top: 76px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+
+  font-family: "PT Sans", sans-serif;
+  font-size: 40px;
+  line-height: 30px;
+}
+
+h1, h2, h3, h4, ul, p, blockquote {
+  width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: 16px;
+  margin-bottom: 10px;
+
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h1 + p {
+  margin-top: -4px;
+
+  color: rgba(0,0,0,.5);
+
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 22px;
+  line-height: 32px;
+}
+p + p {
+  margin-top: 30px;
+
+  color: rgba(0,0,0,.5);
+
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 19px;
+  line-height: 34px;
+}
+
+h2, ul {
+  margin-top: 50px;
+
+  font-size: 32px;
+  line-height: 36px;
+}
+
+h3 {
+  margin-top: 36px;
+
+  font-size: 28px;
+  line-height: 34px;
+}
+h4 {
+  margin-top: 32px;
+
+  font-size: 26px;
+  line-height: 32px;
+}
+h3+p {
+  margin-top: 6px;
+}
+p, blockquote {
+  font-size: 22px;
+  line-height: 34px;
+}
+blockquote {
+  padding-left: 20px;
+
+  border-left: 2px solid black;
+}
